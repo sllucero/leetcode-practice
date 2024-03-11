@@ -1,4 +1,4 @@
-#Leet Code Problemsm - September 13th, 2023
+#Leet Code Problems - September 13th, 2023
 #Sheridan Lucero
 
 """
